@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+python-multipart
+mediapipe
+opencv-python
+pyautogui
+pycaw
+numpy
+framer-motion
+lucide-react
