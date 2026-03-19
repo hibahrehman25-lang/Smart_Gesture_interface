@@ -35,15 +35,19 @@ This project is built as a modular suite. Here’s how the internal pieces fit t
 - [OpenCV Tutorials](https://docs.opencv.org/)
 
 ## Author
-**Hibah Rehman**
+[**Hibah Rehman**]
+-Student/Developer at UVAS
 - AI/ML Developer & Computer Vision Enthusiast
 - GitHub: [hibahrehman25-lang](https://github.com/hibahrehman25-lang)
-- Email: [hibahrehman25@gmail.com](mailto:hibahrehman25@gmail.com)
+- Email: [hibahrehman25@gmail.com](hibahrehman25@gmail.com)
 
 ## Badges
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+
 ![Build](https://img.shields.io/badge/Build-Stable-brightgreen)
+
 ![Library](https://img.shields.io/badge/Library-MediaPipe-orange)
+
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## Contributing
@@ -75,6 +79,7 @@ Setting this up is a walk in the park:
    ```bash
    pip install -r requirements.txt
    python main.py
+   python run_app.py
    ```
 
 ## FAQ
@@ -99,7 +104,7 @@ This project uses direct configuration in `main.py`:
 - Modular Software Architecture
 
 ## Features 🚀
-- **Virtual Mouse**: Move, Click, Right-Click, and Scroll with zero physical touch.
+- **Virtual Mouse**: Move by index finger,Left Click by index and thumb pinch, Right-Click by middle and thumb pinch, and Scroll with zero physical touch by moving middle and index finger together up and down.
 - **Interactive Keyboard**: Type any character, including complex `CTRL+C` or `SHIFT+A` shortcuts.
 - **Latching Modifiers**: Sticky keys (Shift, Ctrl) that stay active until your next press.
 - **Stabilized HUD**: A clean, jitter-free interface that tells you exactly what's happening.
@@ -107,12 +112,13 @@ This project uses direct configuration in `main.py`:
 
 ## Feedback 📝
 I'm always looking to improve! If you find a bug or have a feature idea:
-- Shoot me an email: [hibahrehman25@gmail.com](mailto:hibahrehman25@gmail.com)
-- Open a [GitHub Issue](https://github.com/hibahrehman25-lang/Smart_Gesture_interface/issues)
+- Shoot me an email: [hibahrehman25@gmail.com](hibahrehman25@gmail.com)
+- Open a [GitHub Issue](https://github.com/hibahrehman25-lang/Smart_Gesture_interface.git)
 
 ## About Me 👩💻
 Hey there! I'm **Hibah**, a developer who's obsessed with AI and Computer Vision. I built this project to explore how we can interact with machines more naturally. When I'm not tweaking landmark confidence scores, I'm usually learning about the next big thing in AI.
 
 ## LinkedIn
-Let's connect!
-[Hibah Rehman on LinkedIn](https://www.linkedin.com/in/hibahrehman25)
+
+Connect with me on LinkedIn:  
+[Hibah Rehman](https://www.linkedin.com/in/hibah-rehman-9b883a375)
