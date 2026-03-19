@@ -103,24 +103,21 @@ This project uses direct configuration in `main.py`:
 - OS-Level Automation with Python
 - Modular Software Architecture
 
+  
 ## Features 🚀
-- **Virtual Mouse**: Move ,Left Click by index and thumb pinch, Right-Click by middle and thumb pinch, and Scroll with zero physical touch by moving middle and index finger together up and down.
+- **Virtual Mouse**: Move, Click, Right-Click, and Scroll with zero physical touch.
+  - **Move**: Index finger (Landmark 8).
+  - **Left Click**: Pinch Index & Thumb (Quick tap).
+  - **Drag & Drop**: Hold Index & Thumb pinch for > 0.4s.
+  - **Right Click**: Pinch Index & Middle fingers (Quick touch).
+  - **Scroll**: Pinch/Hold Index & Middle fingers and move vertically.
 - **Interactive Keyboard**: Type any character, including complex `CTRL+C` or `SHIFT+A` shortcuts.
+  - **Type**: Hover Index Finger over a key and Pinch with Thumb to select.
+  - **Modifiers**: Pinch over Shift/Ctrl to toggle (Sticky mode).
 - **Latching Modifiers**: Sticky keys (Shift, Ctrl) that stay active until your next press.
 - **Stabilized HUD**: A clean, jitter-free interface that tells you exactly what's happening.
 - **Always-on-Top**: The CV window stays visible even when you are controlling other apps.
 
-##Gesture Guide :
-##Virtual Mouse:
--Move: Index finger (Landmark 8).
--Left Click: Pinch Index & Thumb (Quick tap).
--Drag & Drop: Hold Index & Thumb pinch for > 0.4s.
--Right Click: Pinch Index & Middle fingers (Quick touch).
--Scroll: Pinch/Hold Index & Middle fingers and move vertically.
-
-##Interactive Keyboard:
--Type: Hover Index Finger over a key and Pinch with Thumb to select.
--Modifiers: Pinch over Shift/Ctrl to toggle (Sticky mode).
 
 ## Feedback 📝
 I'm always looking to improve! If you find a bug or have a feature idea:
